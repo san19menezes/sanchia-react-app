@@ -16,7 +16,6 @@ export const constructUserColumns = (data: UserListInterface): GridColDef[] => {
             sortable: true,
             resizable: false,
             flex: 1,
-            headerAlign: "center",
           } as GridColDef)
       )
     : [];

@@ -8,7 +8,7 @@ import { BaseDataGridInterface } from "./BaseDataGrid.interface";
 // Reusable Data Grid to render data in rows and columns
 export const BaseDataGrid = ({ rows, columns }: BaseDataGridInterface) => {
   return (
-    <Box sx={{ height: 600, width: "100%" }}>
+    <Box sx={{ height: 600, width: "100%", minWidth: 800 }}>
       <DataGrid
         rows={rows}
         columns={columns}
