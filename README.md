@@ -89,4 +89,3 @@ npm run test
 - [React](https://reactjs.org/)
 - [React Query](https://tanstack.com/query/)
 - [Material UI (MUI)](https://mui.com/)
-  > > > > > > > master
