@@ -62,12 +62,6 @@ npm install
 npm run dev
 ```
 
-### 3. Run Tests (if applicable)
-
-```bash
-npm run test
-```
-
 ---
 
 ## API Used
